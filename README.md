@@ -6,6 +6,7 @@
 - Gerenciar categorias de conteúdo
 - Gerenciar fotos
 - Gerenciar textos
+- Listar fotos ou textos por categoria
 
 # Aplicação WEB
 - A Aplicação deve usar ReactJs
@@ -16,6 +17,7 @@
 - Gerenciar as categorias de conteudo
 - Gerenciar as fotos
 - Gerenciar os textos
+- Listar fotos ou textos por categoria
 
 # Requisitos Gerais
 - Tanto a API quanto a Aplicação WEB devem instalar todas as dependencias com 1 linha de comando
