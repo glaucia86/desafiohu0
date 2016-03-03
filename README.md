@@ -1,6 +1,6 @@
 # API em NodeJs usando Express 4
 - A API deve ser em REST
-- A API deve conectar em um bando de dados MongoDB
+- A API deve conectar em um banco de dados MongoDB
 
 #### Features:
 - Gerenciar categorias de conteúdo
