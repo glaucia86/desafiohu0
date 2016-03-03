@@ -11,7 +11,7 @@
 # Aplicação WEB
 - A Aplicação deve usar ReactJs
 - A Aplicação deve usar SASS
-- A Aplicação NÃO pode usar JADE ou similares (processadores hml)
+- A Aplicação NÃO pode usar pre-processadores html (JADE, Haml, etc...)
 
 #### Features:
 - Gerenciar as categorias de conteudo
